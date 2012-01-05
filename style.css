@@ -1,0 +1,125 @@
+
+* {
+font-family: Helvetica;
+}
+
+
+#content
+	{
+	float:left;
+	width: 100%;
+	}
+
+#left_col
+	{
+		float:left;
+		width: 20%;
+		font-size: 80%;
+	}
+
+#body
+	{
+		margin-left: 10px;
+		border-left: 1px solid #CCC;
+		float:left;
+		width: 78%;
+	}
+
+h1 {
+font-size: large;
+border-bottom: 1px solid #CCC;
+text-align: center;
+padding: 5px;
+}
+
+div.breadcrumbles {
+margin-bottom: 35px;
+border: 1px solid red;
+}
+
+#tab h3 {
+font-size: medium;
+text-align:center;
+border-bottom: 1px solid #CCC;
+}
+
+div.note{
+ font-size: small;
+ color: #444;
+}
+
+a{
+ color: #338;
+}
+
+/* css per la mappa */
+
+#container {
+	width:100%;
+   height: 88%;
+	float:left;
+}
+
+#map 
+	{
+      width: 65%;
+      height: 100%;
+      border: 1px solid black;
+      float:left;
+   }
+
+#tab
+	{
+      width: 33%;
+      height: 100%;
+      border: 1px solid black;
+      float:left;
+
+		overflow:auto;
+   }
+
+
+body 
+	{
+		  padding:0px; 
+		  margin:2px
+	}
+
+div.tabbed_headers {
+border: 1px solid #CCC;
+background-color: #DDD;
+float:left;
+}
+
+div.tabbed_headers span {
+border: 1px solid #CCC;
+margin-left: 3px;
+padding: 2px;
+float:left;
+}
+
+div.tabbed_body {
+padding: 10px;
+border: 1px solid #CCC;
+float:left;
+width: 90%;
+height: 100%;
+}
+
+div.tabbed_body a{
+font-size: small;
+margin: 0px;
+border-bottom: 1px solid #CCC;
+}
+
+
+table th, table td {border: 1px solid #CCC; padding:3px; font-size: small;} 
+
+td{text-align:right;}
+td.low{background-color:#F44;}
+td.medium{background-color:#FF4;}
+td.high{background-color:#4F4;}
+td.veryhigh{background-color:#44F;}
+
+
+

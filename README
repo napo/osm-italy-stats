@@ -1,0 +1,11 @@
+Statistics of data entered into OpenStreetMap on italian territory
+The application shows the data entered on the Italian territory divided by cities, provinces and regions, with particular attention to the information on the roads, population and extension.
+Useful to understand where openstreetmap have more activities and to identify areas to increase the activity (es. organization of Mapping Party)
+Production site here:
+http://www.gfoss.it/osm/stat/
+
+Statistiche dei dati inseriti in OpenStreetMap sul territorio italiano
+L'applicazione mostra i dati inseriti sul territorio italiano divisi per città, province e regioni con particolare attenzione alle informazioni sui dati delle strade in relazione al numero di abitanti all'estensione.
+Utile per capire dove si ha maggiore attività o pianificare mapping party.
+L'applicazione è attualmente in uso a questo indirizzo:
+http://www.gfoss.it/osm/stat/
